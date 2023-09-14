@@ -1,2 +1,2 @@
 use it free and enjoy!!!!
-# simpleloginpages
+# simple_login_pages
